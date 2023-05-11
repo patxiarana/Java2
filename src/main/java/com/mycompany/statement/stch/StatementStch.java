@@ -55,4 +55,3 @@ public class StatementStch {
         System.out.println("Hello World!");
     }
 }
-1
